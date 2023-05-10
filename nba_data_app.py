@@ -1,3 +1,4 @@
+!pip install nba_api
 import streamlit as st
 from nba_api.stats.endpoints import playercareerstats
 from nba_api.stats.static import players
